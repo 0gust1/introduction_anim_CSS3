@@ -1,0 +1,20 @@
+[
+    "index.md",
+    "animations-css.md",
+    [
+    "animations-css3-keyframes-transforms.md",
+    "animations-concepts.md",
+    "animations-transforms.md",
+    "animations-transitions.md",
+    "animations-keyframes.md"
+    ],
+    [
+    "animations-et-performances.md",
+    "animations-et-performances-1.md",
+    "animations-et-performances-2.md",
+    "animations-et-performances-3.md"
+    ],
+    "trucs-et-astuces.md",
+    "outils.md",
+    ["references.md","references-2.md"]
+]

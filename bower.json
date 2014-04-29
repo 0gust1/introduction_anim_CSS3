@@ -1,0 +1,7 @@
+{
+  "name": "amination-css3",
+  "version": "0.0.0",
+  "dependencies": {
+    "reveal.js": "master"
+  }
+}

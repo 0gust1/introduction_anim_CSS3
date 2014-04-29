@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="457px" height="176px" viewBox="0 0 457 176" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>schemas_CPU</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="1024-x-768" sketch:type="MSArtboardGroup" transform="translate(-186.000000, -199.000000)">
+            <text id="CPU" sketch:type="MSTextLayer" font-family="Lato" font-size="24" font-style="italic" font-weight="473" sketch:alignment="middle" line-spacing="23" fill="#4990E2">
+                <tspan x="220.398" y="250.067871">CPU</tspan>
+                <tspan x="235.932" y="273.067871">+ </tspan>
+                <tspan x="199.308" y="296.067871">memoire</tspan>
+            </text>
+            <text id="GPU-" sketch:type="MSTextLayer" font-family="Lato" font-size="24" font-style="italic" font-weight="473" sketch:alignment="middle" line-spacing="23" fill="#4990E2">
+                <tspan x="523.72" y="250.067871">GPU </tspan>
+                <tspan x="539.932" y="272.067871" line-spacing="22">+</tspan>
+                <tspan x="467.716" y="294.067871" line-spacing="22">mémoire dédiée</tspan>
+            </text>
+            <path d="M322.250317,272.767598 L455.458455,272.767598" id="Line-copy" stroke="#979797" stroke-width="2" stroke-linecap="square" fill="#979797" sketch:type="MSShapeGroup"></path>
+            <path id="Line-copy-decoration-1" d="M455.250309,272.767598 C451.47031,271.717598 448.23031,270.817598 444.45031,269.767598 C444.45031,271.867598 444.45031,273.667598 444.45031,275.767598 C448.23031,274.717598 451.47031,273.817598 455.250309,272.767598 C455.250309,272.767598 455.250309,272.767598 455.250309,272.767598 Z" stroke="#979797" stroke-width="2" stroke-linecap="square" fill="#979797"></path>
+            <path d="M454.468275,252.767598 L320.504966,252.767598" id="Line-copy-2" stroke="#979797" stroke-width="2" stroke-linecap="square" fill="#979797" sketch:type="MSShapeGroup"></path>
+            <path id="Line-copy-2-decoration-1" d="M321.468269,252.767598 C325.248269,253.817598 328.488269,254.717598 332.26827,255.767598 C332.26827,253.667598 332.268269,251.867598 332.268269,249.767598 C328.488269,250.817598 325.248269,251.717598 321.468269,252.767598 C321.468269,252.767598 321.468269,252.767598 321.468269,252.767598 Z" stroke="#979797" stroke-width="2" stroke-linecap="square" fill="#979797"></path>
+            <text id="surveiller-les-échan" sketch:type="MSTextLayer" font-family="Lato" font-size="18" font-style="italic" font-weight="normal" letter-spacing="1.79999995" fill="#9B9B9B">
+                <tspan x="233" y="351">surveiller les échanges entre CPU et GPU</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
